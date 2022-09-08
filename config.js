@@ -4,7 +4,7 @@ const CONFIG = {
     Mà sao anh cứ đi nhầm đường
     con đường lên 1500 khó tìm thế à?
     btnIntro: 'hihi',
-    title: 'Mấy hôm nay Vni hắt hơi xổ mũi làm con dân rất lo lắng 😙',
+    title: 'Mấy hôm nay Vni hắt hơi xổ mũi làm em rất lo lắng 😙',
     desc: 'Vậy Vni à, chỉ là chỉnh hay Vni chuẩn bị die cmnlr Vni ',
     btnYes: 'VNi: anh chỉnh trêu tí thôi, mai anh lại hồi nha em<33',
     btnNo: 'Vni:,Xin lỗi em, mẹ anh bắt về 1k cơ :3',
